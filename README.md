@@ -33,11 +33,10 @@ Estudiante de Ingeniería en la **UPIICSA - IPN** con un fuerte enfoque en el de
 > *"El código no solo se escribe, se compite."*
 
 * **🥈 Hackathon de Logística IPN (2025):** Participante activo desarrollando soluciones tecnológicas bajo presión para problemas de logística real.
-* *(Aquí puedes agregar más cosas a futuro, como certificaciones)*
 
 ---
 
-### 🛠️ Arsenal Tecnológico
+### 🛠️ Tecnologias 
 
 **Backend & Cloud**
 <br/>
