@@ -23,7 +23,7 @@ Estudiante de Ingeniería en la **UPIICSA - IPN** con un fuerte enfoque en el de
 
 * 🎓 **Formación:** Ingeniería / Ciencias de la Informática (IPN).
 * ☁️ **Enfoque actual:** Cloud Computing con **Azure**, Backend con **Java/Spring** y **Data Science**.
-* 💼 **Experiencia:** Background en QC Testing y Automatización.
+* 💼 **Experiencia:** Background en QC Testing (CTIN).
 * 🐧 **Entorno:** Usuario habitual de **Linux**.
 
 ---
@@ -66,9 +66,8 @@ Estudiante de Ingeniería en la **UPIICSA - IPN** con un fuerte enfoque en el de
 
 ---
 
-### 📊 GitHub Stats
+### 🐍 Mi Actividad (GitHub Snake)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RocketDev-TV&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RocketDev-TV&layout=compact&theme=dark&hide_border=true" height="150" alt="languages graph" />
+  <img src="https://raw.githubusercontent.com/RocketDev-TV/RocketDev-TV/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
