@@ -2,7 +2,6 @@
 <h3 align="center">Aspiring Cloud & Software Engineer | IPN-UPIICSA</h3>
 
 <div align="center">
-
   <a href="https://github.com/RocketDev-TV">
     <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" />
   </a>
@@ -12,57 +11,55 @@
   <a href="https://www.linkedin.com/in/ivanhg-dev/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
   </a>
-
 </div>
 
 ---
 
 ### 🚀 Perfil Profesional
 
-Estudiante de Ingeniería en la **UPIICSA - IPN** con un fuerte enfoque en el desarrollo Backend, Arquitectura en la Nube y Ciencia de Datos. Me apasiona construir sistemas escalables y encontrar patrones en la información.
+Estudiante de Ingeniería en la **UPIICSA - IPN** enfocado en el desarrollo Backend, Arquitectura Cloud y despliegue de infraestructura. Actualmente especializado en la creación de sistemas escalables y la gestión de entornos autogestionados (Self-hosting).
 
 * 🎓 **Formación:** Ingeniería / Ciencias de la Informática (IPN).
-* ☁️ **Enfoque actual:** Cloud Computing con **Azure**, Backend con **Java/Spring** y **Data Science**.
-* 💼 **Experiencia:** Background en QC Testing (CTIN).
-* 🐧 **Entorno:** Usuario habitual de **Linux**.
+* ☁️ **Enfoque actual:** Cloud Computing (**Azure**), Microservicios con **Docker** y Backend con **Java/Python**.
+* 🛠️ **Proyecto Destacado:** "NuevoSpotify" — API REST con Flask, Supabase y despliegue en servidor propio.
+* 🐧 **Entorno:** Power User de **Linux** (Pop!_OS & Ubuntu Server).
 
 ---
 
-### 🏆 Eventos & Logros
+### 🛠️ Tecnologías & Aptitudes
 
-> *"El código no solo se escribe, se compite."*
-
-* **🥈 Hackathon de Logística IPN (2025):** Participante activo desarrollando soluciones tecnológicas bajo presión para problemas de logística real.
-
----
-
-### 🛠️ Tecnologías 
-
-**Backend, Core & Cloud**
+**Backend & Cloud**
 <br/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" />
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
-<br/>
-<img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-
-
-**Data Science & AI**
-<br/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+
+**Infraestructura, Redes & DevOps**
+<br/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Ubuntu_Server-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailscale-4433E1?style=flat-square&logo=tailscale&logoColor=white" />
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
 
 **Web & Tools**
 <br/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+
+---
+
+### 🏆 Eventos & Logros
+
+* **🥈 Hackathon de Logística IPN (2025):** Desarrollo de soluciones tecnológicas bajo presión para problemas reales.
+* **🏠 Home Lab Enthusiast:** Implementación de un servidor doméstico para hosting de servicios y entornos de desarrollo remotos.
 
 ---
 
