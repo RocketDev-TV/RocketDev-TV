@@ -17,7 +17,7 @@
 
 ### 🚀 Perfil Profesional
 
-Estudiante de Ingeniería en la **UPIICSA - IPN** enfocado en el desarrollo Backend, Arquitectura Cloud y despliegue de infraestructura. Actualmente especializado en la creación de sistemas escalables y la gestión de entornos autogestionados (Self-hosting).
+Estudiante de Ingeniería en la **UPIICSA - IPN** enfocado en el desarrollo Backend, Arquitectura Cloud y Ciencia de Datos. Actualmente especializado en la creación de sistemas escalables, análisis de patrones y gestión de entornos autogestionados (Self-hosting).
 
 * 🎓 **Formación:** Ingeniería / Ciencias de la Informática (IPN).
 * ☁️ **Enfoque actual:** Cloud Computing (**Azure**), Microservicios con **Docker** y Backend con **Java/Python**.
@@ -28,10 +28,11 @@ Estudiante de Ingeniería en la **UPIICSA - IPN** enfocado en el desarrollo Back
 
 ### 🛠️ Tecnologías & Aptitudes
 
-**Backend & Cloud**
+**Backend, Core & Cloud**
 <br/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" />
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
@@ -45,6 +46,12 @@ Estudiante de Ingeniería en la **UPIICSA - IPN** enfocado en el desarrollo Back
 <img src="https://img.shields.io/badge/Tailscale-4433E1?style=flat-square&logo=tailscale&logoColor=white" />
 <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+
+**Data Science & AI**
+<br/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 
 **Web & Tools**
 <br/>
