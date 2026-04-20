@@ -20,7 +20,7 @@
 Estudiante de Ingeniería en la **UPIICSA - IPN** enfocado en el desarrollo Backend, Arquitectura Cloud y Ciencia de Datos. Actualmente especializado en la creación de sistemas escalables, análisis de patrones y gestión de entornos autogestionados (Self-hosting).
 
 * 🎓 **Formación:** Ingeniería / Ciencias de la Informática (IPN).
-* ☁️ **Enfoque actual:** Cloud Computing (**Azure**), Microservicios con **Docker** y Backend con **Java/Python**.
+* ☁️ **Enfoque actual:** Cloud Computing (**Azure**), Microservicios con **Docker** y arquitecturas modernas con **TypeScript**, **GraphQL** y **Prisma**.
 * 🛠️ **Proyecto Destacado:** "NuevoSpotify" — API REST con Flask, Supabase y despliegue en servidor propio.
 * 🐧 **Entorno:** Power User de **Linux** (Pop!_OS & Ubuntu Server).
 
@@ -32,7 +32,9 @@ Estudiante de Ingeniería en la **UPIICSA - IPN** enfocado en el desarrollo Back
 <br/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" />
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
