@@ -20,7 +20,7 @@
 Estudiante de Ingeniería en la **UPIICSA - IPN** enfocado en el desarrollo Backend, Arquitectura Cloud y Ciencia de Datos. Actualmente especializado en la creación de sistemas escalables, análisis de patrones y gestión de entornos autogestionados (Self-hosting).
 
 * 🎓 **Formación:** Ingeniería / Ciencias de la Informática (IPN).
-* ☁️ **Enfoque actual:** Cloud Computing (**Azure**), Microservicios con **Docker** y arquitecturas modernas con **TypeScript**, **GraphQL** y **Prisma**.
+* ☁️ **Enfoque actual:** Cloud Computing (**Azure** & **Firebase**), Microservicios con **Docker** y arquitecturas modernas con **TypeScript**, **GraphQL** y **Prisma**.
 * 🛠️ **Proyecto Destacado:** "NuevoSpotify" — API REST con Flask, Supabase y despliegue en servidor propio.
 * 🐧 **Entorno:** Power User de **Linux** (Pop!_OS & Ubuntu Server).
 
@@ -46,6 +46,7 @@ Estudiante de Ingeniería en la **UPIICSA - IPN** enfocado en el desarrollo Back
 <img src="https://img.shields.io/badge/Ubuntu_Server-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
 <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
 <img src="https://img.shields.io/badge/Tailscale-4433E1?style=flat-square&logo=tailscale&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
 <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
 
