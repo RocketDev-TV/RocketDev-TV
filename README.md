@@ -22,7 +22,7 @@ Estudiante de Ingeniería en la **UPIICSA - IPN** enfocado en el desarrollo Back
 * 🎓 **Formación:** Ingeniería / Ciencias de la Informática (IPN).
 * ☁️ **Enfoque actual:** Cloud Computing (**Azure** & **Firebase**), Microservicios con **Docker** y arquitecturas modernas con **TypeScript**, **GraphQL** y **Prisma**.
 * 🛠️ **Proyecto Destacado:** "NuevoSpotify" — API REST con Flask, Supabase y despliegue en servidor propio.
-* 🐧 **Entorno:** Power User de **Linux** (Pop!_OS & Ubuntu Server).
+* 🐧 **Entorno:** Power User de **Linux** (Debian & Ubuntu Server).
 
 ---
 
@@ -37,6 +37,7 @@ Estudiante de Ingeniería en la **UPIICSA - IPN** enfocado en el desarrollo Back
 <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
 
@@ -60,12 +61,13 @@ Estudiante de Ingeniería en la **UPIICSA - IPN** enfocado en el desarrollo Back
 <br/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
 <img src="https://img.shields.io/badge/Astro-0C1120?style=flat-square&logo=astro&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white" />
 
 ---
 
@@ -88,5 +90,5 @@ Estudiante de Ingeniería en la **UPIICSA - IPN** enfocado en el desarrollo Back
 
 <br/>
 <p align="center">
-  <i>Hecho con ❤️ y mucho café en la CDMX.</i>
+  <i>Hecho con ☕, código y algo de indie rock punk alternativo en la CDMX.</i>
 </p>
